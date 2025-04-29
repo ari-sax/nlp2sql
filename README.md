@@ -1,1 +1,1 @@
-# nlp2aql
+# nlp2sql
